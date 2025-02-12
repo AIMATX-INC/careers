@@ -1,6 +1,8 @@
 title: "AIMATX Careers"
 description: "Join us in building the future of materials science"
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 show_downloads: false
