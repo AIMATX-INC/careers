@@ -1,6 +1,8 @@
 title: "AIMATX Careers"
-show_title: false
-description: "Join us in building the future of materials science"
+# Add this to your existing config
+titles_from_headings:
+  enabled: falsedescription: "Join us in building the future of materials science"
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # Specify the version
 plugins:
   - jekyll-remote-theme
