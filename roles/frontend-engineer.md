@@ -1,5 +1,6 @@
-# Frontend Engineer
-
+---
+title: "Frontend Engineer"
+---
 ## Role Overview
 We're looking for a Frontend Engineer to create intuitive interfaces for complex scientific workflows. You'll build responsive and user-friendly applications that make powerful ML tools accessible to scientists, enabling seamless interaction with our advanced materials discovery platform.
 
