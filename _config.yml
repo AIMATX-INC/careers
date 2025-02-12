@@ -1,10 +1,27 @@
 title: "AIMATX Careers"
-show_title: false  # Many Jekyll themes have this option
+show_title: false
 description: "Join us in building the future of materials science"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # Specify the version
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache  # Add this line
+  - jekyll-include-cache  # Required for minimal-mistakes theme
+  - jekyll-paginate      # Often needed by minimal-mistakes
 show_downloads: false
+
+# Additional minimal-mistakes settings
+minimal_mistakes_skin: "default"
+search: false
+atom_feed:
+  hide: true
+
+# Defaults for all pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
