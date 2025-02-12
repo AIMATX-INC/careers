@@ -1,6 +1,7 @@
 title: "AIMATX Careers"
+show_title: false  # Many Jekyll themes have this option
 description: "Join us in building the future of materials science"
-remote_theme: daattali/beautiful-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
