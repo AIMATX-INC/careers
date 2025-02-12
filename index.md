@@ -1,3 +1,8 @@
+---
+layout: single
+classes: wide
+author_profile: false
+---
 # Open Positions at AIMATX
 
 We're building next-generation materials discovery software. Join us in creating the future of materials science.
