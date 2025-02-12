@@ -17,6 +17,4 @@ We're building next-generation materials discovery software. Join us in creating
 
 ## How to Apply
 
-We're excited about your interest in joining AIMATX! To apply:
-
-Fill out our [application form](https://aimatx.typeform.com/join-us). For any questions about the application process, please reach out to us at careers@aimatx.ai.
+Please fill out our [application form](https://aimatx.typeform.com/join-us). For any questions about the application process, please reach out to us at careers@aimatx.ai.
