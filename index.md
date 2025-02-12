@@ -14,3 +14,9 @@ We're building next-generation materials discovery software. Join us in creating
 - [Experimental Chemist](roles/experimental-chemist.md)
 - [Frontend Engineer](roles/frontend-engineer.md)
 - [Platform Engineer](roles/platform-engineer.md)
+
+## How to Apply
+
+We're excited about your interest in joining AIMATX! To apply:
+
+Fill out our [application form](https://aimatx.typeform.com/join-us). For any questions about the application process, please reach out to us at careers@aimatx.ai.
