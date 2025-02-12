@@ -1,5 +1,6 @@
-# Computational Chemist
-
+---
+title: "Computational Chemist"
+---
 ## Role Overview
 We're looking for a Computational Chemist to drive AI-powered materials discovery. You'll develop and apply machine learning models to accelerate the discovery of novel materials, focusing on solving critical sustainability challenges.
 
