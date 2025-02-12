@@ -1,5 +1,6 @@
-# Scientific Platform-Systems Builder
-
+---
+title: "Scientific Platform-Systems Builder"
+---
 ## Role Overview
 We're seeking a Systems Architect to create end-to-end research automation platforms. You'll design and implement sophisticated systems that seamlessly integrate ML models with experimental workflows, enabling breakthrough discoveries in materials science.
 
