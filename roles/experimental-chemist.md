@@ -1,5 +1,6 @@
-# Experimental Chemist
-
+---
+title: "Experimental Chemist"
+---
 ## Role Overview
 We're seeking an Experimental Chemist to validate and guide AI predictions. You'll bridge the gap between computational predictions and real-world applications, conducting crucial experiments to verify and refine our AI-driven materials discovery process.
 
