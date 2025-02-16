@@ -5,7 +5,7 @@ author_profile: false
 ---
 # Open Positions at AIMATX
 
-Join us in creating the future of materials science.
+Join us in creating the Agentic AI platform for chemistry and materials science.
 
 ## Current Openings
 
